@@ -1,2 +1,2 @@
-web: bin/rails server
+web: rdbg -O -c -- bin/rails server
 css: bin/rails tailwindcss:watch
